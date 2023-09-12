@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="librerias">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/librerias/flatlaf-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/librerias/doki-theme-jetbrains-78.2-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/librerias/mysql-connector-java-8.0.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
